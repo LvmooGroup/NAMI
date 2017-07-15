@@ -3,7 +3,7 @@ import message from '../util/message.js'
 import { sendMessage } from '../actions/combin.js'
 import '../less/ImageExpression.less'
 
-const src = 'http://cdn.suisuijiang.com/message_1480558412404.png';
+const src = 'https://cdn.lvmoo.com/chat/message_1480558412404.png';
 function ImageExpression(props){
     const handleSend = (content) => {
         const msg = message.createMessage(props.user.toJS(),content,props.isPrivate,'image');
