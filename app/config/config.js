@@ -4,7 +4,7 @@ export default {
     revokeMsgTimeLimit: 2*60*1000,
     inviteLink: 'https://chat.lvmoo.com/invite/',
     ImageStyle: '?imageView2/1/w/250/h/169/interlace/1/q/100', //七牛图片处理样式
-    imageDomain: 'https://cdn.lvmoo.com/chat/image',
+    imageDomain: 'https://cdn.lvmoo.com',
     ImageNotFound: 'https://cdn.lvmoo.com/chat/404.jpeg',
     LoadingImage: 'https://cdn.lvmoo.com/chat/loading.gif',
     ErrorImage: 'https://cdn.lvmoo.com/chat/error.svg',
