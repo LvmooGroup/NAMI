@@ -9,7 +9,7 @@ module.exports = {
     JWT_KEY: 'JWT_KEY',
     ROBOT_URL: 'http://www.tuling123.com/openapi/api',
     ROBOT_KEY: '273e3ca4189a3fc03b4a94db8d87796b',
-    ROBOT_AVATAR:'http://oajmk96un.bkt.clouddn.com/robot.jpg',
+    ROBOT_AVATAR:'https://cdn.lvmoo.com/chat/robot.jpg',
     QINIU_ACCESS_KEY: 'xxxxxxx',
     QINIU_SECRET_KEY: 'xxxxx',
     QINIU_CNAME: 'https://cdn.lvmoo.com',
