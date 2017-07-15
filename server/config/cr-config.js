@@ -2,7 +2,7 @@ module.exports = {
     ROBOT_NAME: '机器人小z',
     INIT_ROOM: 'Lvmoo',
     INIT_ROOM_INFO: '有问题欢迎提issue',
-    INIT_ADMIN_EMAIL: 'kay',
+    INIT_ADMIN_EMAIL: '凯',
     DEFAULT_AVATAR: 'https://cdn.lvmoo.com/chat/user.svg',
     DEFAULT_GROUP_AVATAR: 'https://cdn.lvmoo.com/chat/download.svg',
     DAY: 24*60*60*1000,
