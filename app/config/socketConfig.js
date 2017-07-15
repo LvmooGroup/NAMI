@@ -4,7 +4,7 @@ export default {
         PORT: '3002'
     },
     production: {
-        HOST: 'chat.lvmoo.com',
+        HOST: 'chat.likai.xin',
         PORT: '3002'
     },
 }
